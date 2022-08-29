@@ -8,19 +8,30 @@ Git clone serve para fazer o download contendo uma cópia de um repositório (pa
 git clone https://github.com/arthurspk/guiadevbrasil.git
 ```
 
-## 2. Git add
-
-Git clone serve para fazer o download contendo uma cópia de um repositório (pasta) de código do github ou outro repositório de códigos abertos.
+## 1. Git add
 
 ```bash
-git clone https://github.com/arthurspk/guiadevbrasil.git
+Git add é um comando para adicionar alterações no diretório, serve para aplicar um arquivo.
 ```
+
+## 2. Git commit
+
+```bash
+É um pacote de alterações feitas no repositório, ele permite que os desenvolvedores consigam criar arquivos.
+```
+
+## 3. Git push
+
+```bash
+É usado para enviar arquivos para o repositório.
+```
+
 
 ## Responder as seguintes perguntas:
 
-1. O que é e como funciona o comando `git add`?
-2. O que é e como funciona o comando `git commit`?
-3. O que é e como funciona o comando `git push`?
+
+
+
 4. O que é e como funciona o comando `git pull`?
 
 ## Help
