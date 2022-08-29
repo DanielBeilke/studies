@@ -1,6 +1,14 @@
 # Ordem dos comandos GIT
 
-## Git clone
+## 1. Git clone
+
+Git clone serve para fazer o download contendo uma cópia de um repositório (pasta) de código do github ou outro repositório de códigos abertos.
+
+```bash
+git clone https://github.com/arthurspk/guiadevbrasil.git
+```
+
+## 2. Git add
 
 Git clone serve para fazer o download contendo uma cópia de um repositório (pasta) de código do github ou outro repositório de códigos abertos.
 
