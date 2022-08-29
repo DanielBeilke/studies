@@ -25,6 +25,12 @@ Git add é um comando para adicionar alterações no diretório, serve para apli
 ```bash
 É usado para enviar arquivos para o repositório.
 ```
+## 4. Git pull
+
+```bash
+Permite que você mostre para outras pessoas as atualizações.
+```
+
 
 
 ## Responder as seguintes perguntas:
