@@ -32,14 +32,8 @@ Permite que você mostre para outras pessoas as atualizações.
 ```
 
 
-
-## Responder as seguintes perguntas:
-
-
-
-
-4. O que é e como funciona o comando `git pull`?
-
+5. O que é e como funciona o comando `git pull`?
+```
 ## Help
 
 1. Qual a ordem dos comandos do GIT?
