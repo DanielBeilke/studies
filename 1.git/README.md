@@ -31,11 +31,10 @@ Git add é um comando para adicionar alterações no diretório, serve para apli
 Permite que você mostre para outras pessoas as atualizações.
 ```
 
-
 5. O que é e como funciona o comando `git pull`?
 ```
 ## Help
-
+```
 1. Qual a ordem dos comandos do GIT?
 
 > git add . # Adiciona todos os arquivos no estágio "stage"
