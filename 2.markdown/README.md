@@ -1,12 +1,6 @@
 # Notes guide
 
-## Questions and answers
 ```bash
-#1. Cite 2 exemplo de técnicas de planejamento de testes ?
-Mind Map and Pareto Principle.
-
-#2. Cite 3 exemplos de artefatos/documentos possíveis para a modelagem de testes?
-Mind Map, checklist and diagrams.
 
 Notes:
 
@@ -53,8 +47,32 @@ Notes:
 17.4 - Não escreva casos de teste que se baseiam em suposições.
 17.5 - Crie casos de teste com base em técnicas de desing.
 
+18. 'Algoritmo' é uma sequência finita de instruções bem definidas, são compostos por instrução e dados.
 
+19. 'Instruções' manipulam os dados para chegar ao resultado desejado.
 
+Tipos de dados:
+
+19.1 'Inteiro': São aqueles numéricos positivos ou negativos com exeção dos números fracionários.
+
+19.2 'Real': Compreende os n° positivos, negativos e fracionádos.
+
+19.3 'Caracter'(String): Compreende letras, N° e símbolos especiais, essa sequência de caracteres dever ser limitadas por aspas(""). 
+
+19.4 'Lógico'(Booleano): São aqueles que podem assumir somentos dois valores:'Verdadeiro e Falso'
+
+20. 'Variáveis' um espaço reservadona memória do computador para armazenar um tipo de dado determinado.
+
+21. 'Operadores de comparação/relacionais' utilizados com objetivo de analisar os valores de uma expressão com o mesmo tipo primitivo, retornando um valor verdadeiro ou falso.
+
+22. 'Tabela de operações de comparação'
+
+'>' (Maior): Retorna verdadeiro caso o primeiro valor seja maior que o segundo.
+'>=' (Maior ou igual): Retorna verdadeiro caso o primeiro valor seja maior ou igual ao segundo.
+'<' (Menor): Retorna verdadeiro caso o primeiro valor seja menor que o segundo.
+'<=' (Menor ou igual): Retorna verdadeiro caso o primeiro valor seja menor ou igual ao segundo.
+'==' (igual a): Retorna verdadeiro caso que o primeiro valor seja igual ao segundo.
+'!=' (diferente de): Retorna verdadeiro caso que o primeiro valor seja diferente ao segundo.
 
 
 
