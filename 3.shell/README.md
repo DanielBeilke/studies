@@ -62,17 +62,17 @@ imc = peso / (altura * altura)
 classificação = ""
 grau = "0"
 
-if (imc < 18.5) {
+if (imc < 18.50) {
     clasificação = "Magro"
 }
-if else (imc < 25) {
+if else (imc < 24.90) {
     classificação = "Normal"
 }
-if else (imc < 30) {
+if else (imc < 29.90) {
     classificação = "Sobre peso"
     grau = 1    
 }
-if else (imc <40) {
+if else (imc <39.90) {
     classificação = "Obesidade"
     grau = 2
 }
