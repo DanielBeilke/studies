@@ -74,12 +74,26 @@ Tipos de dados:
 '==' (igual a): Retorna verdadeiro caso que o primeiro valor seja igual ao segundo.
 '!=' (diferente de): Retorna verdadeiro caso que o primeiro valor seja diferente ao segundo.
 
+23. 'Médotos'
 
+'GET' Busca um recurso.
+'POST' Envia/salva um recurso.
+'PUT' Altera um recurso como todo/EX:Nome, data de nascimento, endereço. 
+'PATCH' Alterração de um dado expecífico só do cadastro/EX:Nome, data de nascimento, endereço. 
+'DELETE' Excluir um cadastro/registro.
 
+24. 'JavaScript' - Operadores lógicos
 
+'!' Operador lógico NÃO (Logical NOT).
+Utilizado na negação ou valor contrário.
 
+'||' Operador lógico OU (Logical OR).
+Se o primeiro valor for avaliado como true, o opeador '||' não irá avaliar o segundo valor.
 
+'&&' Operador lógico E (Logical AND).
+O Operador "E" ou "AND" resulta em um valor VERDADEIRO se os dois valores de entrada da operação forem VERDADEIROs, caso contrário o resultado é FALSO.
 
+25.
 
 
 
