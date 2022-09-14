@@ -93,7 +93,13 @@ Se o primeiro valor for avaliado como true, o opeador '||' não irá avaliar o s
 '&&' Operador lógico E (Logical AND).
 O Operador "E" ou "AND" resulta em um valor VERDADEIRO se os dois valores de entrada da operação forem VERDADEIROs, caso contrário o resultado é FALSO.
 
-25.
+'if' = SE.
+
+'Else' = SE NÃO.
+
+'{}' Bloco de códigos, sempre utilizado quando tiver + de 1 comando.  
+
+
 
 
 
