@@ -90,6 +90,140 @@ if (grau > 2) {
         console.log(""É importante procurar um médico para avaliar sua saúde.)
     }
 
+#Crie um array de 5 posições com quaisquer valores. Utilize qualquer estrutura de repetição apresentada no vídeo para exibir todos os valores do array:
+
+num = 1
+while(num <=5){
+    console.log(num)
+num++
+}
+
+
+
+num = 1
+do{
+console.log(num++)
+
+}while(num=<=20)
+
+
+
+for(num = 5; num <=20; num++){
+    console.log(num)
+}
+
+#Crie um algoritmo capaz de calcular a média aritmética de um array com qualquer quantidade de elementos numéricos. Para fins de exemplo, o resultado do algoritmo com um array de valores 1, 2, 3, 5, 8, 13, 21, 23, 34, 55 deve ser 16.5. Procure usar uma estrutura de repetição diferente da que você usou para fazer o exercício anterior:
+
+valor = [1, 2, 3, 5, 8, 13, 21, 23, 34, 55]
+soma = 0
+
+for (soma = 0; soma <valor.lenght; soma++) {
+    soma + valor
+}
+media = soma / valor.lenght
+console.log(media)
+
+
+#Considerando a lista dos 60 nomes mais comuns no Brasil nos últimos 10 anos, crie um algoritmo para verificar se seu nome está lá. Se sim, exiba a mensagem: É, nome comum :P. Se não, exiba a mensagem: Diferentão, hein? XD.
+
+meuNome: Daniel
+
+nomesComuns = ["Miguel", "Laura", "Lucas", "Beatriz", "Guilherme", "Maria", "Gabriel", "Ana", "Arthur", "Júlia", 
+"Enzo", "Alice", "Rafael", "Mariana", "João", "Larissa", "Gustavo", "Maria Eduarda", "Pedro", "Sofia", 
+"Bernardo", "Isabela", "Matheus", "Helena", "Davi", "Camila", "Heitor", "Lara", "Henrique", "Valentina", 
+"Bruno", "Letícia", "Samuel", "Luana", "Felipe", "Amanda", "Lorenzo", "Yasmin", "Benjamin", "Sophia", 
+"Vinícius", "Rebeca", "Rodrigo", "Juliana", "Eduardo", "Bruna", "Diego", "Cecília", "Antônio", "Fernanda", 
+"Leonardo", "Isadora", "Noah", "Lorena", "Nícolas", "Lívia", "Daniel", "Manuela", "Thiago", "Vitória"]
+
+for (index = 0; nomesComuns,lenght; index++){
+    if (meuNome == nomesComuns) 
+    nomeComum = true }
+
+if (nomeComum){
+    console.log("É, nome comum :P")
+}
+    else {
+        console.log("Nome diferentão, hein ? XD")
+    }
+
+#Crie uma função chamada imprimir que recebe um argumento e simplesmente imprime ele na tela; 
+
+function imprimir(text){
+    console.log(imprimir)
+}
+
+#Lembra dos exercícios que propusemos na Aula 05 - Variáveis? Com base neles, faça o seguinte:
+
+
+    *Crie uma variável mesmoNome que verifica se nomeDoFulano é igual a nomeDoBeltrano:
+/*Verificar se os nomes são iguais.*/
+function mesmoNome(nomeDoFulano, nomeDeBeltrano){
+    return NomeDoFulano == nomeDeBeltrano
+}
+
+
+
+    *Crie uma variável maiorDeIdade que verifica se idade é de um adulto:
+
+/*Verificar se são maioridade*/
+function maiorDeIdade (idade){
+    return idade >= 18
+} 
+
+
+    *Crie uma variável valorComJuros que calcula o valor de um boleto acrescido de 10% de juros por atraso;
+
+/*Verificar o valor do juros com 10%.*/
+function valorComJutos(boleto){
+    return boleto * 1.1
+}
+
+
+    *Faça a representação da fórmula de média aritmética, considerando um conjunto de elementos com 5 elementos nomeados como item1, item2, item3, item4 e item5:
+
+/*Calcular a média aritmética*/
+function calcularMediaAritmetica(itens){
+
+    //Somar os itens do lenght
+    for (index = 1; index < itens.lenght)
+        soma += itens
+    return soma / itens.lenght
+
+}
+
+
+    *Na função da média aritmética, evite colocar todos os itens como argumentos do método, pois isso limitaria sua utilização a um número fixo de elementos. Tente implementar uma lógica para receber um array e calcular a média em cima dele, tornando a função mais reaproveitável em diferentes situações:
+
+function margemBrutal (vendasLiquidas, produtosVendidos) {
+    lucroBruto = vendasLiquidas - prdutosVendidos
+    return (lucroBrutos / vendasLiquidas) *100
+}
+
+#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

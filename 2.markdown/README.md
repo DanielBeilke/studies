@@ -99,6 +99,17 @@ O Operador "E" ou "AND" resulta em um valor VERDADEIRO se os dois valores de ent
 
 '{}' Bloco de códigos, sempre utilizado quando tiver + de 1 comando.  
 
+25. 'Vetores e Matrizes' (Array) são coleções de variáveis contínuas na memória e acessadas através de um número de índice, a diferença entre vetores e matrizes é que 'vetores' são de uma única dimensão, enquanto 'matrizes' podem conter vvárias dimensões.
+
+26. 'JavaScript: Inserindo comentários':
+
+'Script': Pode ser definido como uma série de instruções executadas de maneira ordenada ou como um conjunto de instruções para a execução de determinada tarefa em um software.
+
+- 'Bara dupla' (//): Serve para comentar uma linha de código, também pode ser utilizado para comentar várias linhas (Inicia /* e termina com */).
+
+
+
+27.'Index': Índices nos bancos de dados são utilizados para facilitar a busca de informações em uma tabela com o menor número possível de operações de leituras, tornado assim a busca mais rápida e eficiente.
 
 
 
