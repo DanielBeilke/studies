@@ -199,17 +199,40 @@ function margemBrutal (vendasLiquidas, produtosVendidos) {
     return (lucroBrutos / vendasLiquidas) *100
 }
 
-#
+##
 
+colaboradores    = ['Rhoger', 'Cléverson', 'Gleysberto', 'Nádio', 'Rosiméri', 'Regislane', 'Agripino', 'Wellison']
+idades           = [      69,          66,           58,      61,         60,          64,         59,         55]
+temposDeTrabalho = [      31,          29,           30,      26,         25,          24,         26,         29]
 
+/*Ter pelo menos 65 anos de idade;
+Ter trabalhado no mínimo 30 anos;
+Ter pelo menos 60 anos de idade e 25 anos de trabalho.*/
 
+function verificarAposentadoria(nome) {
+    colaborador = false
+    idade = 0
+    trabalho = 0
+}
 
+    for (posição < colaboradores.lenght) {
+        if (nome == colaborador)
+        colaborador = true
+        idade = idade
+        tempoDeTrabalho = tempoDeTrabalho
+    }
 
+        // Colaborador pode se aposentar
+    if (porIdade || porTempoDeTrabalho || porIdadeComTempoDeTrabalho) {
+        console.log("Parabéns, já pode sair de férias para sempre")
+    }   
+    else {
+        console.log("Ainda falta um tempinho")
+    }
 
-
-
-
-
+    else {
+        console.log("Colaborador inválido")
+    }
 
 
 

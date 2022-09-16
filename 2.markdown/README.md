@@ -108,7 +108,6 @@ O Operador "E" ou "AND" resulta em um valor VERDADEIRO se os dois valores de ent
 - 'Bara dupla' (//): Serve para comentar uma linha de código, também pode ser utilizado para comentar várias linhas (Inicia /* e termina com */).
 
 
-
 27.'Index': Índices nos bancos de dados são utilizados para facilitar a busca de informações em uma tabela com o menor número possível de operações de leituras, tornado assim a busca mais rápida e eficiente.
 
 
